@@ -16,6 +16,7 @@ Goal: To check your understanding of Google login integration in Flutter.
 Show a list of sample hotels on the home page.
 Add a search bar so users can search by hotel name, city, state, or country.
 Use the given API to get search results.
-https://youtube.com/shorts/f7nWDZaoVpo
+🎥 **Demo Video:** [Watch on YouTube](https://youtube.com/shorts/f7nWDZaoVpo)
+
  
 # hotelapp
