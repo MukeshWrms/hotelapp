@@ -1,4 +1,4 @@
-# myhotx
+# hotelapp
 
 A new Flutter project.
 
@@ -7,12 +7,15 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+-Google Sign In / Sign Up
+Create a screen for Google Sign-In or Sign-Up.
+No backend or API needed — just the frontend.
+Goal: To check your understanding of Google login integration in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Home Page (Hotel List)
+Show a list of sample hotels on the home page.
+Add a search bar so users can search by hotel name, city, state, or country.
+Use the given API to get search results.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# myhotx
+ 
 # hotelapp
