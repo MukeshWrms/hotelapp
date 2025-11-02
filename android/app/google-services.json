@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "306259854237",
+    "project_id": "myhotx-4350f",
+    "storage_bucket": "myhotx-4350f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306259854237:android:067233add7c5bd9c2ea574",
+        "android_client_info": {
+          "package_name": "com.mukesh.myhotx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306259854237-svsbf6ge83g6stmbkji2be62fpvdum0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mukesh.myhotx",
+            "certificate_hash": "e89430edd808db66d204d45590ad4085c7ea72f8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgUZWMt93RFiZw8xSgKpyeIBc5CTOx5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
