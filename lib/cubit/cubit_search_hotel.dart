@@ -133,10 +133,10 @@ class HotalSearchListCubit extends Cubit<CommonState> {
           if (newProperties.length < _pageSize) {
             hasSearchMoreNotifier.value = false;
             print(
-              '🚫 No more data available. Received ${newProperties.length} but expected $_pageSize',
+              ' No more data available. Received ${newProperties.length} but expected $_pageSize',
             );
           } else {
-            // print('✅ More data available');
+            // print(' More data available');
           }
 
           if (isLoadMore && newProperties.isNotEmpty) {
@@ -157,7 +157,7 @@ class HotalSearchListCubit extends Cubit<CommonState> {
 
           _isInitialLoad = false;
         } else {
-          print('❌ API call failed or no data');
+          print('API call failed or no data');
           if (isLoadMore) {
             hasSearchMoreNotifier.value = false;
           }
